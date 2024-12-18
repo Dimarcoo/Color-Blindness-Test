@@ -1,14 +1,12 @@
 # ¿Qué es el daltonismo?
+El daltonismo es un trastorno visual que afecta la capacidad de distinguir ciertos colores. 
+Es un defecto en la percepción del color causado por una anomalía en los conos, que son las células receptoras de color en la retina del ojo. 
+Los conos contienen pigmentos sensibles a los colores rojo, verde y azul, y su alteración puede dificultar la diferenciación entre ciertos colores o, en casos más raros, la percepción de todos los colores.
 
-Aplicacion móvil el cual permite hacer un diagnostico del daltonismo para niños entre 5 a 10 años, 
-APLICACIÓN MÓVIL QUE PERMITE HACER UN DIAGNOSTICO DEL DALTONISMO PARA NIÑOS ENTRE 5 A 10 AÑOS, ESTA PERMITE 
-CREAR UN PERFIL DEL USUARIO, APLICACIÓN TIENE ADAPTADA EL TEST DE ISHIAHARA, EL CUAL CONSISTE EN VISUALIZAR 
-VARIAS TARJETAS CON IMÁGENES DE NÚMEROS INMERSOS Y EL NIÑO DEBE SELECCIONAR EL NÚMERO QUE VISUALICE, LA 
-OTRA PRUEBA ES ANOMALOSCOPIO EL CONSISTE EN IDENTIFICAR A TRAVÉS DE UN BOTÓN EL COLOR QUE MÁS SE ASEMEJA 
-AL SEÑALADO, SE ADAPTÓ LA PRUEBA DE COLOR DE CAMBRIDGE Y SE EMITE UN REPORT
-
-## 
 ## Solución
+
+Aplicacion móvil el cual permite hacer un diagnostico del daltonismo para niños entre 5 a 10 años, la aplicacion tiene adaptada el test de ISHIAHARA,
+el cual consiste en viaualizar varias tarjetas con imagenes de números inmersos y el niño debe seleccionar el número que visualice.
 
 ## Getting Started
 
