@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "619389290029",
+    "project_id": "daltonismo-1913f",
+    "storage_bucket": "daltonismo-1913f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619389290029:android:e6ef4360071d745b42daa4",
+        "android_client_info": {
+          "package_name": "com.example.daltonismo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619389290029-9eqhqidvc6hm22hgbltemc5vhfd3fl68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daltonismo",
+            "certificate_hash": "f1551182a5901bc2b44e96ae4384627534759bac"
+          }
+        },
+        {
+          "client_id": "619389290029-9looto86t6mdllh9r81vpriv08ee7bce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHNQZXrhP7O8Yq6xDzUFFnoIveBg0VQs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619389290029-9looto86t6mdllh9r81vpriv08ee7bce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
